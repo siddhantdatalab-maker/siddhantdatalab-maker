@@ -1,36 +1,36 @@
 # Hi there, I'm [Siddhant]! 👋
 
-![banner image](https://kommodo.ai/i/egrfXnW5PUdzX8efqySj)
+![banner image](assets/6628834bfd17e9e94db8d2b26b6f9a36.jpg)
 
 ## About Me 🚀
 
-I'm a passionate **[Business/Data Analyst]** with experience in **[Python,SQL,Power BI]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Business/Data Analyst]** with experience in **[Python,SQL,Power BI]**. I enjoy transforming raw data into actionable insights and building practical applications that solve real-world business problems.
 
-- 🌱 Currently learning: **[Advance Dax ]**
-- 🔭 Working on: **[Member Billing application for ONGC]**
-- 🌍 Languages: **[Python and English as human language ]**
+- 🌱 Currently learning: **[Advanced Dax And Advanced Power BI Analytiics]**
+- 🔭 Working on: **[ONGC Member Billing Application]**
+- 🌍 Languages: **[Python(programming) and English(communication) ]**
 - 📫 How to reach me: **[siddhant.datalab@gmail.com]**
 - ⚡ F-act!: **[stop starting start finishing]**
 
 ## My Skills 🧠
 
-![Batch 1](https://kommodo.ai/i/MnqTVmHlewBsChffT5Dm)
-![batch 2](https://kommodo.ai/i/hVE2nipav1jfSfrwl1xi)
-![Batch 3](https://kommodo.ai/i/KH8kcgK4UteqbJuf6UWc)
+![Batch 1](assets/sas-certified-associate-modeling-using-sas-visual-s.png)
+![batch 2](assets/sas-visual-analytics-1-for-sas-viya-basics.2.png)
+![Batch 3](assets/sas-visual-statistics-on-sas-viya-interactive-model-building.1.png)
 
 
 ## Featured Projects 💻
 
 ### [ONGC Member Billing application]([project_1_link](https://github.com/siddhantdatalab-maker/ongc-billing-manager))
 
-![screenshot](https://kommodo.ai/i/8w6NQgzFWyBffO4spEN5)
+![screenshot](assets/WhatsApp Image 2026-06-14 at 5.20.24 PM.jpeg)
 
-**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database management,Application development]**. You can check out the repository ![here](https://github.com/siddhantdatalab-maker/ongc-billing-manager).
+**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database design and management,Application development,Business Process Automation,Data Handling & Reporting]**. You can check out the repository ![here](https://github.com/siddhantdatalab-maker/ongc-billing-manager).
 
 
 ## Get in Touch 📬
 
 
-- **[LinkedIn]**(http://www.linkedin.com/in/siddhant-singh-792866194)
-- **[Email]:**(siddhant.datalab@gmail.com)
+- **[LinkedIn](http://www.linkedin.com/in/siddhant-singh-792866194)
+- **[Email](mailto:siddhant.datalab@gmail.com)
 
