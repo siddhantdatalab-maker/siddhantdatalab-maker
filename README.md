@@ -1,6 +1,6 @@
 # Hi there, I'm [Siddhant]! 👋
 
-!(https://kommodo.ai/i/egrfXnW5PUdzX8efqySj)
+![banner image](https://kommodo.ai/i/egrfXnW5PUdzX8efqySj)
 
 ## About Me 🚀
 
@@ -14,23 +14,23 @@ I'm a passionate **[Business/Data Analyst]** with experience in **[Python,SQL,Po
 
 ## My Skills 🧠
 
-!(https://kommodo.ai/i/MnqTVmHlewBsChffT5Dm)
-!(https://kommodo.ai/i/hVE2nipav1jfSfrwl1xi)
-!(https://kommodo.ai/i/KH8kcgK4UteqbJuf6UWc)
+![Batch 1](https://kommodo.ai/i/MnqTVmHlewBsChffT5Dm)
+![batch 2](https://kommodo.ai/i/hVE2nipav1jfSfrwl1xi)
+![Batch 3](https://kommodo.ai/i/KH8kcgK4UteqbJuf6UWc)
 
 
 ## Featured Projects 💻
 
-### [ONGC Member Billing application](project_1_link)
+### [ONGC Member Billing application]([project_1_link](https://github.com/siddhantdatalab-maker/ongc-billing-manager))
 
-!(https://kommodo.ai/i/8w6NQgzFWyBffO4spEN5)
+![screenshot](https://kommodo.ai/i/8w6NQgzFWyBffO4spEN5)
 
-**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database management,Application development]**. You can check out the repository [here](project_1_repository_link).
+**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database management,Application development]**. You can check out the repository ![here](https://github.com/siddhantdatalab-maker/ongc-billing-manager).
 
 
 ## Get in Touch 📬
 
 
-- **[LinkedIn]**(www.linkedin.com/in/siddhant-singh-792866194)
-
+- **[LinkedIn]**(http://www.linkedin.com/in/siddhant-singh-792866194)
+- **[Email]:**(siddhant.datalab@gmail.com)
 
