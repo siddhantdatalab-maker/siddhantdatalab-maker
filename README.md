@@ -26,8 +26,8 @@ I'm a passionate **[Business/Data Analyst]** with experience in **[Python,SQL,Po
 
 ![screenshot](assets/screenshot.jpeg)
 
-**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database design and management,Application development,Business Process Automation,Data Handling & Reporting]**. You can check out the repository ![here](https://github.com/siddhantdatalab-maker/ongc-billing-manager).
-
+**[ONGC Member billing Application]** is a **[billing desktop application]** built with **[Python,SQlite and streamlt]**. This project demonstrates my ability to **[Database design and management,Application development,Business Process Automation,Data Handling & Reporting]**. You can check out the repository here:
+[ONGC Billing Manager](https://github.com/siddhantdatalab-maker/ongc-billing-manager)
 
 ## Get in Touch 📬
 
